@@ -21,9 +21,13 @@ https://github.com/NikeMahawar/Assignment-Circlepe.git
 ```
 
 # Build for Production
+```bash
 npm run build
+```
 
 # Start the production server
+```bash
 npm start
+```
 
 The app will be available at http://localhost:3000.
