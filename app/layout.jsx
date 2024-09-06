@@ -9,8 +9,8 @@ export const LeagueSpartan = League_Spartan({
 
 
 export const metadata = {
-  title: "Circlepe - Assignment",
-  description: "Assignment for Circlepe Frontend Developer Role",
+  title: "Circlepe - Assignment by Nikunj Mahawar",
+  description: "Frontend Developer Role Assignment",
 };
 
 export default function RootLayout({ children }) {
