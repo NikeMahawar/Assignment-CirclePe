@@ -6,13 +6,10 @@ export const LeagueSpartan = League_Spartan({
   subsets: ['latin'],
   display: 'swap',
 })
-
-
 export const metadata = {
-  title: "Circlepe - Assignment by Nikunj Mahawar",
-  description: "Frontend Developer Role Assignment",
+  title: "Circlepe Company - Assignment by Nikunj Mahawar",
+  description: "It is an assignment which is submitted to company circlepe",
 };
-
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
